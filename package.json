@@ -1,0 +1,6 @@
+{
+    "name": "aws_sample_api",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
